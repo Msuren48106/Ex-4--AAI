@@ -22,8 +22,8 @@ Step 9:Find the most likely sequence of hidden states by selecting the hidden st
 
 ## Program:
 ```python
-#Developed By:Rahul V
-#Reg No: 212223240133
+#Developed By:M.SUREN.
+#Reg No: 212223230222
 import numpy as np
 #Define the transition matrix
 transition_matrix =np.array([[0.7,0.3],[0.4,0.6]])
